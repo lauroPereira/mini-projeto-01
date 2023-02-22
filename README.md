@@ -40,12 +40,12 @@ Ao início do projeto foi realizado o ***Release planning*** (que é o planejame
 
 Além disso, ao início de cada *sprint* será realizada uma *planning* (planejamento) para **refinar as tarefas** (quebrando elas em sub-tarefas que podem ser visualizadas dentro dos cards no [quadro kanban](https://trello.com/b/LTEN26SQ/mini-projeto-01)) e **avaliar quais destas serão assumidas** para conclusão até o fim da *sprint*.
 	
-### retrospectiva
+### Retrospectiva
 Ao final de cada *sprint* será realizada uma retrospectiva para **avaliar o atingimento dos objetivos assumidos** e revisar o que precisa ser ajustado antes de iniciar a próxima *sprint*.
 
 Além disso será elaborado um resumo incremental da *sprint* e publicado na [página de apresentação](https://github.com/lauroPereira/mini-projeto-01/README.md) do projeto.
 	
-### timeboxing
+### Timeboxing
 * O timebox de cada uma das *sprints* é de 3 dias.
 * Ao início de cada *sprint* haverá 30min para planning.
 * Ao final de cada *sprint* haverá 30min para retrospectiva.
