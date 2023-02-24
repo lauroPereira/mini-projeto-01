@@ -51,7 +51,7 @@ Além disso será elaborado um resumo incremental da *sprint* e publicado na [p�
 * Ao final de cada *sprint* haverá 30min para retrospectiva.
 
 ## Retrospectiva - sprint 1
-dia: 23/02/2023 22:00
+dia: 23/02/2023
 Infelizmente o resultado da primeira Sprint não foi atingido, duas tarefas ficaram pendentes devido ao curto período de tempo que foi possível dedicar às demandas.
 Para a próxima Sprint é aconselhavel me comprometer com menos tarefas. Como não houve nenhum tipo de bloqueio durante a sprint, não é necessário mudar a forma de trabalho, somente com relação ao tempo dedicado ao projeto que precisa aumentar para evitar o risco de comprometer a entrega.
 
