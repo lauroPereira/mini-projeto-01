@@ -61,6 +61,7 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 
 * "Concluir o setup do projeto"
 	* Criar a página do projeto no google colab
+		* página criada: https://colab.research.google.com/drive/1NR44I_VQvKYv11ShGCELIqZ3hS0iSzme#scrollTo=pHrzyRWmRmBK
 
 * "Definir a questão do negócio"
 	* Compreender o objetivo de negócio
