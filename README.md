@@ -49,3 +49,17 @@ Além disso será elaborado um resumo incremental da *sprint* e publicado na [p�
 * O timebox de cada uma das *sprints* é de 3 dias.
 * Ao início de cada *sprint* haverá 30min para planning.
 * Ao final de cada *sprint* haverá 30min para retrospectiva.
+
+## Retrospectiva - sprint 1
+dia: 23/02/2023 22:00
+Infelizmente o resultado da primeira Sprint não foi atingido, duas tarefas ficaram pendentes devido ao curto período de tempo que foi possível dedicar às demandas.
+Para a próxima Sprint é aconselhavel me comprometer com menos tarefas. Como não houve nenhum tipo de bloqueio durante a sprint, não é necessário mudar a forma de trabalho, somente com relação ao tempo dedicado ao projeto que precisa aumentar para evitar o risco de comprometer a entrega.
+
+## Planning - sprint 2
+dia: 23/02/2023
+Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objetivos da sprint serão:
+* "Concluir o setup do projeto"
+** Criar a página do projeto no google colab
+* "Definir a questão do negócio"
+** Compreender o objetivo de negócio
+** Atualizar o repositório do github e a página do colab com as informações da questão de negócio
