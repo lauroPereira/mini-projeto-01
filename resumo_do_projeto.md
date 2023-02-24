@@ -67,4 +67,4 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 	* Compreender o objetivo de negócio
 	* Atualizar o repositório do github e a página do colab com as informações da questão de negócio
 
-***Após desenvolvimento dos itens definidos para a sprint foi identificado que eram menores e que havia espaço na sprint para a inclusão de novos itens, por isso foram acrescentadas do item "Mapeamento dos dados" do épico "Entendimento do negócio"***
+***Após desenvolvimento dos itens definidos para a sprint foi identificado que eram menores do que o esperado e que havia espaço na sprint para a inclusão de novos itens, por isso foram acrescentadas os itens "Mapeamento dos dados" e "Construir um plano" do épico "Entendimento do negócio"***
