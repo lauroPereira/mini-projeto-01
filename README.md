@@ -58,8 +58,10 @@ Para a próxima Sprint é aconselhavel me comprometer com menos tarefas. Como n�
 ## Planning - sprint 2
 dia: 23/02/2023
 Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objetivos da sprint serão:
+
 * "Concluir o setup do projeto"
-** Criar a página do projeto no google colab
+	* Criar a página do projeto no google colab
+
 * "Definir a questão do negócio"
-** Compreender o objetivo de negócio
-** Atualizar o repositório do github e a página do colab com as informações da questão de negócio
+	* Compreender o objetivo de negócio
+	* Atualizar o repositório do github e a página do colab com as informações da questão de negócio
