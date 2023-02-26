@@ -68,3 +68,33 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 	* Atualizar o repositório do github e a página do colab com as informações da questão de negócio
 
 ***Após desenvolvimento dos itens definidos para a sprint foi identificado que eram menores do que o esperado e que havia espaço na sprint para a inclusão de novos itens, por isso foram acrescentadas os itens "Mapeamento dos dados" e "Construir um plano" do épico "Entendimento do negócio"***
+
+## Retrospectiva - sprint 2
+
+* O objetivo da sprint não foi atingido novamente.
+* Foi identificado que a tarefa de construção do plano não pode ser concluída pois as etapas de expliração dos dados ainda não havia iniciado, e por isso a tarefa ficou bloqueada.
+* O ritmo do projeto não está adequado, até agora **6 tarefas foram concluídas** e **9 estão pendentes** sendo que finalizei a sprint 2 de um total de 4, ou seja, foi concluído 40% do trabalho em 50% do tempo
+* Devido ao atráso duas tarefas foram despriorizadas, por não serem críticas para o projeto, são elas:
+	* Identificar dados anômalos (potencialmente errados)
+	* Pesquisar dados externos relacionados ao problema do cliente
+
+![image](https://user-images.githubusercontent.com/16515641/221435573-4f30f563-9a1d-4ae6-a53c-565540017082.png)
+
+## Planning - sprint 3
+* Foi realizado um novo refinamento ajustando as tarefas necessárias para cada épico e alterando a ordem da execução para não termos novos problemas de bloqueio
+* 
+* As tarefas que serão adicionadas ao backlog da sprint serão:
+	* Tratamento inicial dos dados
+		* Ajustar os tipos dos dados
+	* Descrição dos dados
+		* Analisar volume dos dados
+		* Criar um glossário com cada coluna
+	* Verificação da qualidade dos dados
+		* Remover nulos (em dados críticos)
+		* Remover duplicados
+	* Construir um plano **(não entregue na sprint 2)**
+		* Definir quais são as variáveis mais importantes do dataset
+		* Criar uma estratégia macro para conseguir responder a pergunta de negócio do cliente
+* SPRINT INICIADA
+![image](https://user-images.githubusercontent.com/16515641/221435942-acc5fa8b-7882-46fe-9f7d-bee29b6c9ead.png)
+ 
