@@ -72,7 +72,7 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 ## Retrospectiva - sprint 2
 
 * O objetivo da sprint não foi atingido novamente.
-* Foi identificado que a tarefa de construção do plano não pode ser concluída pois as etapas de expliração dos dados ainda não havia iniciado, e por isso a tarefa ficou bloqueada.
+* Foi identificado que a tarefa de construção do plano não pode ser concluída pois as etapas de exploração dos dados ainda não havia iniciado, e por isso a tarefa ficou bloqueada.
 * O ritmo do projeto não está adequado, até agora **6 tarefas foram concluídas** e **9 estão pendentes** sendo que finalizei a sprint 2 de um total de 4, ou seja, foi concluído 40% do trabalho em 50% do tempo
 * Devido ao atráso duas tarefas foram despriorizadas, por não serem críticas para o projeto, são elas:
 	* Identificar dados anômalos (potencialmente errados)
@@ -82,7 +82,8 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 
 ## Planning - sprint 3
 * Foi realizado um novo refinamento ajustando as tarefas necessárias para cada épico e alterando a ordem da execução para não termos novos problemas de bloqueio
-* 
+* Com estes ajustes o escopo do épico **"Entendimento de negócio"** foi reduzido e ele foi dado como concluído
+
 * As tarefas que serão adicionadas ao backlog da sprint serão:
 	* Tratamento inicial dos dados
 		* Ajustar os tipos dos dados
