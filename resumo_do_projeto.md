@@ -99,3 +99,23 @@ Para a Sprint o compromisso será de 3 taréfas ao invés de 4, e os dois objeti
 * SPRINT INICIADA
 ![image](https://user-images.githubusercontent.com/16515641/221435942-acc5fa8b-7882-46fe-9f7d-bee29b6c9ead.png)
  
+## Retrospectiva - sprint 3
+* O objetivo da sprint foi atingido com antecedencia
+* Por isso foi possível repriorizar a análise de anomalia nos dados, e com isso foi possível remover da base de dados alguns imóveis sem banheiro ou quarto, e até mesmo um imóvel que constava com 33 quartos.
+* Nessa Sprint foi possível avançar bastante no planejamento da execução das análises devido ao forte conhecimento da questão de negócio e dos dados disponíveis
+* A estratégia se dividirá em 4 etapas:
+	1. Análise por cidade para validar onde o mercado está mais aquecido
+	2. Análise multivariada por categoria (variáveis de tamanho, qualidade, etc), para validar dentro de cada categoria qual variável tem maior correlação com o preço do imóvel obs: Validar se essa correlação se aplica a todas as cidades ou se é específica
+	3. Através das variáveis/categorias com maior correlação, criar uma forma de classificar os imóveis
+	4. Identificar os imóveis com valor mais fora do padrão entre classificação e valor* 
+
+
+![image](https://user-images.githubusercontent.com/16515641/222621556-0ae8cdd5-c11d-42ad-bc9e-dde3dcbfebe6.png)
+
+
+## Planning - sprint 4
+* Para a Sprint 4, que é a última será necessário finalizar o épico de "Exploração de dados" que já foi concluído 50% na sprint anterior e a análise final.
+* Devido à um imprevisto não foi possível trabalhar nos dias 28/02 e 01/03, o que colocou a entrega do projeto em risco, por isso será necessário total comprometimento para a conclusão do projeto dentro do prazo
+* Para a conclusão de todo o trabalho restante preciso concluir 3 histórias priorizadas, e caso ainda haja tempo, a tarefa de pesquisa por dados externos pode ser repriorizada para aprimorar a conclusão final.
+
+![image](https://user-images.githubusercontent.com/16515641/222622096-3f8c3df7-40ef-4417-ab4a-dedd5571d7b3.png)
